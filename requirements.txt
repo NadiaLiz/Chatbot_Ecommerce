@@ -4,3 +4,4 @@ transformers
 pyngrok 
 flask
 requests
+torch
